@@ -10,6 +10,16 @@ Decentralized infrastructure for AI compute, node monetization, and distributed 
 
 ---
 
+## ⚡ Key Metrics (MVP Simulation)
+
+- 1,200+ connected nodes  
+- Real-time task distribution  
+- Multi-role client (AI / Node / Storage)  
+- Dynamic network orchestration  
+
+---
+---
+
 ## ⚡ What is VylexAI
 
 VylexAI is a decentralized infrastructure that combines AI compute, distributed storage, and node-based resource sharing into a single unified network.
