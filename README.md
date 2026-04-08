@@ -1,6 +1,6 @@
 # VylexAI Core
 
-Decentralized AI compute and storage network.
+Decentralized infrastructure for AI compute, node monetization, and distributed storage.
 
 ---
 
